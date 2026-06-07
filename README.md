@@ -1,6 +1,6 @@
-# Day2 课程问卷数据看板
+# 课程问卷数据看板
 
-这是一个公开匿名版的问卷数据看板，用于展示线下课程 Day2 的课程反馈分析结果。
+这是一个公开匿名版的课程问卷数据看板，用于展示线下课程反馈分析结果。
 
 ## 在线预览
 
@@ -38,7 +38,7 @@
 如需用新的 CSV 或 Excel 重新生成看板，可以使用本地 Codex skill：
 
 ```bash
-python3 ~/.codex/skills/survey-data-dashboard/scripts/build_survey_dashboard.py INPUT_FILE --output index.html --title "问卷数据看板"
+python3 ~/.codex/skills/survey-data-dashboard/scripts/build_survey_dashboard.py INPUT_FILE --output index.html --title "课程问卷数据看板"
 ```
 
 生成新的 `index.html` 后，重新提交到 GitHub Pages 仓库即可更新线上页面。
