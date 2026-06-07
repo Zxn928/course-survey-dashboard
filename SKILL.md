@@ -3,7 +3,7 @@ name: course-survey-dashboard
 description: Generate polished, shareable HTML data dashboards from survey, questionnaire, feedback, evaluation, course review, training review, customer research, CSV, TSV, XLSX, or Excel files. Use when the user asks to summarize spreadsheet-like survey data, visualize questionnaire results, create a data board/dashboard, produce an HTML webpage for external sharing, or turn uploaded Excel/CSV feedback into charts, insights, themes, and browsable response tables.
 ---
 
-# Survey Data Dashboard
+# 课程问卷数据看板
 
 ## Workflow
 
