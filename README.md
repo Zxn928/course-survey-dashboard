@@ -4,7 +4,7 @@
 
 ## 在线预览
 
-[打开数据看板](https://zxn928.github.io/day2-course-survey-dashboard/)
+[打开数据看板](https://zxn928.github.io/course-survey-dashboard/)
 
 ## 看板内容
 
